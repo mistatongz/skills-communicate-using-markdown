@@ -16,5 +16,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Ola, Amigos!";
 ```
 
+##### Below are a few Tasks `<h5>`
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfilio
+- [ ] Introduce myself to the world
+
+       
 
 This was just an example of presenting headers in a file
