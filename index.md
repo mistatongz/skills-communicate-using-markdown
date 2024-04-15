@@ -5,7 +5,7 @@
 
 
 
+![Image of Steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 
 
-
-This was just an examplte of presenting headers in a file
+This was just an example of presenting headers in a file
